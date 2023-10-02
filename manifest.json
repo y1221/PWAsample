@@ -1,0 +1,33 @@
+{
+    "name": "Temperature Converter",
+    "short_name": "Temp Converter",
+    "icons": [{
+        "src": "image/icon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+    },{
+        "src": "image/icon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+    },{
+        "src": "image/icon-64x64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+    },{
+        "src": "image/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },{
+        "src": "image/icon-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    },{
+        "src": "image/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#BD913F",
+    "theme_color": "#916028"
+}
